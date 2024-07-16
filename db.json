@@ -1,0 +1,22 @@
+{
+  "product": [
+    {
+      "title": "may giat",
+      "content": "hang sieu cap",
+      "status": 1,
+      "id": "1"
+    },
+    {
+      "title": "tivi",
+      "content": "hang binh thuong ",
+      "status": 0,
+      "id": "99a0"
+    },
+    {
+      "title": "tu lanh ",
+      "content": "hang auth",
+      "status": 1,
+      "id": "4ed0"
+    }
+  ]
+}
